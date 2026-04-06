@@ -1,0 +1,5 @@
+print("Hello Isha\nWelcome to the world")
+print("hello"+"world")
+print("hello"+" "+"world")
+print("hello "+"world")
+print("hello"+" world")
