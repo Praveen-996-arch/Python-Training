@@ -1,0 +1,15 @@
+h1{
+    background-color: blue;
+}
+.red-text{
+    background-color: yellow;
+}
+#first-heading{
+    background-color: green;
+}
+p[draggable="false"]{
+    color: pink;
+}
+*{
+    color: black;
+}
